@@ -11,6 +11,7 @@ The main goal of Unity Health is to bridge the gap between patients and healthca
 
 ### Live - Project 🌐
 **UI 👉** [Visit Unity Health](https://unity-health-frontend.onrender.com/)
+<br/>
 **Admin Dashboard 👉** [Admin Dashboard](https://unity-health-admin.onrender.com/)
 
 ---
@@ -19,6 +20,10 @@ The main goal of Unity Health is to bridge the gap between patients and healthca
 <p align="center" ><b>User Page</b></p>
 
 ![image alt](https://github.com/akashkr386/Unity-Health/blob/10b8bc52e35daaecec33cbe10d49104b95c199ad/Unity-Health.png)
+<br/>
+<p align="center" ><b>Admin Page</b></p>
+
+<p align="center" ><b>Doctor Page</b></p>
 ---
 ## 🚀 Features
 
