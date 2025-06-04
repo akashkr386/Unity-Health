@@ -16,19 +16,24 @@ The main goal of Unity Health is to bridge the gap between patients and healthca
 
 ---
 
-### Screenshot
-<p align="center" ><b>User Page</b></p>
+### 📸 Screenshots
 
-![image alt](https://github.com/akashkr386/Unity-Health/blob/10b8bc52e35daaecec33cbe10d49104b95c199ad/Unity-Health.png)
-<br/>
-<p align="center" ><b>Admin Page</b></p>
-![image alt](https://github.com/akashkr386/Unity-Health/blob/65cb6fd294176a3333ff05713cfc3353e1dcc729/3.png)
+<p align="center"><b>User Page</b></p>
+
+![User Page](https://raw.githubusercontent.com/akashkr386/Unity-Health/10b8bc52e35daaecec33cbe10d49104b95c199ad/Unity-Health.png)
 
 <br/>
-<p align="center" ><b>Doctor Page</b></p>
-![image alt](https://github.com/akashkr386/Unity-Health/blob/b6981cd67e31e290785da111b3d3575c37fc3a65/4.png)
 
----
+<p align="center"><b>Admin Page</b></p>
+
+![Admin Page](https://raw.githubusercontent.com/akashkr386/Unity-Health/65cb6fd294176a3333ff05713cfc3353e1dcc729/3.png)
+
+<br/>
+
+<p align="center"><b>Doctor Page</b></p>
+
+![Doctor Page](https://raw.githubusercontent.com/akashkr386/Unity-Health/b6981cd67e31e290785da111b3d3575c37fc3a65/4.png)
+
 
 ## 🚀 Features
 
