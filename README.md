@@ -25,6 +25,7 @@ The main goal of Unity Health is to bridge the gap between patients and healthca
 ![image alt](https://github.com/akashkr386/Unity-Health/blob/65cb6fd294176a3333ff05713cfc3353e1dcc729/3.png)
 <br/>
 <p align="center" ><b>Doctor Page</b></p>
+![image alt](https://github.com/akashkr386/Unity-Health/blob/b6981cd67e31e290785da111b3d3575c37fc3a65/4.png)
 ---
 ## 🚀 Features
 
