@@ -52,7 +52,7 @@ const Navbar = () => {
                 <div className="min-w-48 bg-stone-100 rounded flex flex-col gap-4 p-4">
                   <p
                     onClick={() => {
-                      navigate("/my-profile");
+                      navigate("/myProfile");
                       setDropdownOpen(false);
                     }}
                     className="hover:text-black cursor-pointer"
