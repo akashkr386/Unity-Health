@@ -43,7 +43,7 @@ const Navbar = () => {
             <img className="w-8 rounded-full" src={userData.image} alt="" />
             <img
               className="w-2.5"
-              src={assets.dropdown_icon}
+              src={assets.dropdown_icon} //hii
               alt=""
               onClick={() => setDropdownOpen(!dropdownOpen)} // ✅ toggle on click
             />
